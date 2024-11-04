@@ -9,7 +9,7 @@ let userMessage = null;
 let isResponseGenerating = false;
 
 //API configuration
-const API_KEY = "AIzaSyCQ9c8j8b006uIwnD1CVSSlkCTRwGgYxTw";
+const API_KEY = "YOUR_API_KEY";
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${API_KEY}`;
 
 
